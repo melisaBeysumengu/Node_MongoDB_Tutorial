@@ -48,6 +48,8 @@ nodemon does **not** require *any* additional changes to your code or method of 
 
     $ git clone https://github.com/melisaBeysumengu/Node_MongoDB_Tutorial.git
     $ cd Node_MongoDB_Tutorial
+    $ npm install
+    $ nodemon app
 
 ## Running the project
 
